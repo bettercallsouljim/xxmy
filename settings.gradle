@@ -1,0 +1,3 @@
+rootProject.name = "fu841"
+//include ':app'
+include ':shake'
